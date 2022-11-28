@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "ui": "workspace:*"
+    "ui": "workspace:*",
+    "node-fetch": "^3.3.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
